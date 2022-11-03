@@ -1,0 +1,399 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Sep 2022 11:03:10 at https://www.primaram.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.primaram.com/ -O1 "C:\Users\migue\OneDrive\00 PrimaRam\01_Web\00_Snapshots\PrimaRam v3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:10:28	Warning: 	Moved Permanently for https://www.primaram.com/soluciones/
+11:10:28	Warning: 	File has moved from https://www.primaram.com/soluciones/ to https://www.primaram.com/soluciones-primaram/
+11:12:51	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/home/
+11:12:51	Warning: 	File has moved from https://www.primaram.com/pt-pt/home/ to https://www.primaram.com/pt-pt/
+11:17:46	Error: 	"Not Found" (404) at link https://www.primaram.com/pt-pt/a-nossa-equipa/ (from https://www.primaram.com/pt-pt/)
+11:18:06	Error: 	"Not Found" (404) at link https://www.primaram.com/pt-pt/contato/ (from https://www.primaram.com/pt-pt/)
+11:18:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=16
+11:18:09	Warning: 	File has moved from https://www.primaram.com/?p=16 to https://www.primaram.com/quienes-somos/
+11:18:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=610
+11:18:09	Warning: 	File has moved from https://www.primaram.com/?p=610 to https://www.primaram.com/equipo/
+11:18:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=32
+11:18:09	Warning: 	File has moved from https://www.primaram.com/?p=32 to https://www.primaram.com/idi/
+11:18:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=34
+11:18:09	Warning: 	File has moved from https://www.primaram.com/?p=34 to https://www.primaram.com/proyectos/
+11:18:25	Warning: 	Moved Permanently for https://www.primaram.com/?p=38
+11:18:25	Warning: 	File has moved from https://www.primaram.com/?p=38 to https://www.primaram.com/sostenibilidad/
+11:18:25	Warning: 	Moved Permanently for https://www.primaram.com/?p=44
+11:18:25	Warning: 	File has moved from https://www.primaram.com/?p=44 to https://www.primaram.com/clientes/
+11:22:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=251
+11:22:09	Warning: 	File has moved from https://www.primaram.com/?p=251 to https://www.primaram.com/presencia/
+11:22:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=8172
+11:22:09	Warning: 	File has moved from https://www.primaram.com/?p=8172 to https://www.primaram.com/soluciones-primaram/
+11:22:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=24
+11:22:09	Warning: 	File has moved from https://www.primaram.com/?p=24 to https://www.primaram.com/velum/
+11:22:09	Warning: 	Moved Permanently for https://www.primaram.com/?p=26
+11:22:09	Warning: 	File has moved from https://www.primaram.com/?p=26 to https://www.primaram.com/contacto/
+11:25:10	Warning: 	Moved Permanently for https://www.primaram.com/?p=7509
+11:25:10	Warning: 	File has moved from https://www.primaram.com/?p=7509 to https://www.primaram.com/proyectos/proyecto-de-cultivo-ngs-barakat-sharjah-emiratos-arabes-unidos/
+11:25:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7508
+11:25:12	Warning: 	File has moved from https://www.primaram.com/?p=7508 to https://www.primaram.com/proyectos/modernizacion-de-automatizacion-en-3-500-ha-primaflor-2/
+11:25:13	Warning: 	Moved Permanently for https://www.primaram.com/?p=7507
+11:25:13	Warning: 	File has moved from https://www.primaram.com/?p=7507 to https://www.primaram.com/proyectos/srt-para-cultivo-de-150-ha-de-palta-tayca-peru/
+11:25:13	Warning: 	Moved Permanently for https://www.primaram.com/?p=8879
+11:25:13	Warning: 	File has moved from https://www.primaram.com/?p=8879 to https://www.primaram.com/agua-gestion-eficiente-de-los-recursos-hidricos-en-el-sector-agrario/
+11:25:13	Warning: 	Moved Permanently for https://www.primaram.com/?p=8862
+11:25:13	Warning: 	File has moved from https://www.primaram.com/?p=8862 to https://www.primaram.com/el-gobierno-de-espana-aprueba-medidas-urgentes-de-apoyo-al-sector-agrario-frente-a-la-sequia/
+11:25:15	Warning: 	Moved Permanently for https://www.primaram.com/?p=8850
+11:25:15	Warning: 	File has moved from https://www.primaram.com/?p=8850 to https://www.primaram.com/kit-de-abonado-con-alimentacion-fotovoltaica/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/?p=492
+11:25:19	Warning: 	File has moved from https://www.primaram.com/?p=492 to https://www.primaram.com/cookies/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/?p=3
+11:25:19	Warning: 	File has moved from https://www.primaram.com/?p=3 to https://www.primaram.com/politica-privacidad/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=687
+11:25:19	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=687 to https://www.primaram.com/pt-pt/quem-sao/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=634
+11:25:19	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=634 to https://www.primaram.com/pt-pt/equipo/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=695
+11:25:19	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=695 to https://www.primaram.com/pt-pt/idi/
+11:25:19	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7341
+11:25:19	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7341 to https://www.primaram.com/pt-pt/proyectos/
+11:25:25	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=700
+11:25:25	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=700 to https://www.primaram.com/pt-pt/nossos-valores/
+11:25:25	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=713
+11:25:25	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=713 to https://www.primaram.com/pt-pt/clientes-principais/
+11:28:01	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=675
+11:28:01	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=675 to https://www.primaram.com/pt-pt/presenca/
+11:28:01	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8173
+11:28:01	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8173 to https://www.primaram.com/pt-pt/solucoes/
+11:28:01	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=685
+11:28:01	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=685 to https://www.primaram.com/pt-pt/velum/
+11:28:01	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=679
+11:28:01	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=679 to https://www.primaram.com/pt-pt/contacto/
+11:29:11	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8046
+11:29:11	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8046 to https://www.primaram.com/pt-pt/proyectos/projeto-de-irrigacao-intregral-para-amendoeira-de-422-ha-em-moura-portugal/
+11:29:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8044
+11:29:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8044 to https://www.primaram.com/pt-pt/proyectos/srt-para-cultivo-de-150-ha-de-abacate-tayca-peru/
+11:29:13	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8042
+11:29:13	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8042 to https://www.primaram.com/pt-pt/proyectos/modernizacao-da-automatizacao-em-3-500-ha-primaflor/
+11:29:14	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8693
+11:29:14	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8693 to https://www.primaram.com/pt-pt/portugal/
+11:29:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7319
+11:29:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7319 to https://www.primaram.com/pt-pt/uniforme-de-ciclismo-primaram/
+11:29:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7322
+11:29:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7322 to https://www.primaram.com/pt-pt/dispositivo-iot-prima-ram/
+11:29:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=756
+11:29:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=756 to https://www.primaram.com/pt-pt/politica-de-privacidade/
+11:29:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=755
+11:29:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=755 to https://www.primaram.com/pt-pt/cookies/
+11:29:15	Warning: 	Moved Permanently for https://www.primaram.com/?p=7506
+11:29:15	Warning: 	File has moved from https://www.primaram.com/?p=7506 to https://www.primaram.com/proyectos/proyecto-integral-de-sistema-de-riego-tecnificado-para-cultivo-de-almendro-de-422-ha-en-moura-portugal/
+11:29:16	Warning: 	Moved Permanently for https://www.primaram.com/?p=7505
+11:29:16	Warning: 	File has moved from https://www.primaram.com/?p=7505 to https://www.primaram.com/proyectos/proyecto-bagu-parque-solar-para-abastecimiento-de-sistema-de-riego-huelva-espana/
+11:29:16	Warning: 	Moved Permanently for https://www.primaram.com/?p=7480
+11:29:16	Warning: 	File has moved from https://www.primaram.com/?p=7480 to https://www.primaram.com/proyectos/proyecto-integral-de-sistema-de-riego-para-cultivo-de-arandano-en-huarmey-peru/
+11:29:16	Warning: 	Moved Permanently for https://www.primaram.com/?p=7479
+11:29:16	Warning: 	File has moved from https://www.primaram.com/?p=7479 to https://www.primaram.com/proyectos/diseno-y-ejecucion-de-proyecto-integral-de-200-ha-de-limon-y-stevia-en-lambayeque-olmos-peru/
+11:29:16	Warning: 	Moved Permanently for https://www.primaram.com/?p=7478
+11:29:16	Warning: 	File has moved from https://www.primaram.com/?p=7478 to https://www.primaram.com/proyectos/sistema-de-riego-para-cultivo-intensivo-de-almendro-cantillana-badajoz-espana/
+11:29:17	Warning: 	Moved Permanently for https://www.primaram.com/?p=7477
+11:29:17	Warning: 	File has moved from https://www.primaram.com/?p=7477 to https://www.primaram.com/proyectos/sistema-de-riego-por-goteo-para-hortalizas-en-fonelas-granada-espana/
+11:29:17	Warning: 	Moved Permanently for https://www.primaram.com/?p=7476
+11:29:17	Warning: 	File has moved from https://www.primaram.com/?p=7476 to https://www.primaram.com/proyectos/sistema-de-aspersion-para-instalaciones-deportivas-de-campo-de-futbol-11/
+11:29:33	Warning: 	Moved Permanently for https://www.primaram.com/?p=7503
+11:29:33	Warning: 	File has moved from https://www.primaram.com/?p=7503 to https://www.primaram.com/productos/sistema-de-calefaccion/
+11:29:34	Warning: 	Moved Permanently for https://www.primaram.com/?p=7502
+11:29:34	Warning: 	File has moved from https://www.primaram.com/?p=7502 to https://www.primaram.com/productos/sistema-de-ventilacion/
+11:29:35	Warning: 	Moved Permanently for https://www.primaram.com/?p=7501
+11:29:35	Warning: 	File has moved from https://www.primaram.com/?p=7501 to https://www.primaram.com/productos/bombas-magneticas/
+11:29:35	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.primaram.com-pro/wp-content/uploads/2019/05/1221-300x142.png (from https://www.primaram.com/productos/bombas-magneticas/)
+11:29:36	Warning: 	Moved Permanently for https://www.primaram.com/?p=7500
+11:29:36	Warning: 	File has moved from https://www.primaram.com/?p=7500 to https://www.primaram.com/productos/bombas-inyectoras/
+11:29:37	Warning: 	Moved Permanently for https://www.primaram.com/?p=7499
+11:29:37	Warning: 	File has moved from https://www.primaram.com/?p=7499 to https://www.primaram.com/productos/equipos-venturi/
+11:29:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=7498
+11:29:38	Warning: 	File has moved from https://www.primaram.com/?p=7498 to https://www.primaram.com/productos/botellones/
+11:29:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=7497
+11:29:38	Warning: 	File has moved from https://www.primaram.com/?p=7497 to https://www.primaram.com/productos/filtrado-arena/
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AMIAD-300x180.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-2-300x143.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/ARKAL.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AZUD-300x86.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/FIKTERNOX-300x66.png (from https://www.primaram.com/productos/filtrado-arena/)
+11:29:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=7495
+11:29:38	Warning: 	File has moved from https://www.primaram.com/?p=7495 to https://www.primaram.com/productos/variadores-de-frecuencia/
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-1-300x71.png (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/VACON-300x81.jpg (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:29:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=7494
+11:29:38	Warning: 	File has moved from https://www.primaram.com/?p=7494 to https://www.primaram.com/productos/bombas-sumergibles/
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BOHISA-300x68.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DANFOSS-300x123.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/saer1-300x227.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/caprari.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:29:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/LOWARA-300x64.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:29:39	Warning: 	Moved Permanently for https://www.primaram.com/?p=7493
+11:29:39	Warning: 	File has moved from https://www.primaram.com/?p=7493 to https://www.primaram.com/productos/caudalimetros/
+11:29:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-1-245x300.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:29:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DOROT-300x212.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:29:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-1-300x143.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:29:39	Warning: 	Moved Permanently for https://www.primaram.com/?p=7492
+11:29:39	Warning: 	File has moved from https://www.primaram.com/?p=7492 to https://www.primaram.com/productos/monocable/
+11:29:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2019/05/SISTEMAS-ELECTRONICOS-PROGRES-300x54.jpg (from https://www.primaram.com/productos/monocable/)
+11:29:39	Warning: 	Moved Permanently for https://www.primaram.com/?p=7491
+11:29:39	Warning: 	File has moved from https://www.primaram.com/?p=7491 to https://www.primaram.com/productos/manguera-electrica/
+11:30:25	Warning: 	Moved Permanently for https://www.primaram.com/1991mexico/
+11:30:25	Warning: 	File has moved from https://www.primaram.com/1991mexico/ to https://www.primaram.com/iso90009001/
+11:30:31	Warning: 	Moved Permanently for https://www.primaram.com/?p=8802
+11:30:31	Warning: 	File has moved from https://www.primaram.com/?p=8802 to https://www.primaram.com/el-gobierno-ha-aprobado-el-perte-agroalimentario/
+11:30:36	Warning: 	Moved Permanently for https://www.primaram.com/?p=7262
+11:30:36	Warning: 	File has moved from https://www.primaram.com/?p=7262 to https://www.primaram.com/portugal/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=6353
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=6353 to https://www.primaram.com/equipo-primaram/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=6246
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=6246 to https://www.primaram.com/2016primaramperu/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=6237
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=6237 to https://www.primaram.com/dispositivo-iot-prima-ram/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=3463
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=3463 to https://www.primaram.com/huertomik/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=5872
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=5872 to https://www.primaram.com/24-000riego/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=5866
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=5866 to https://www.primaram.com/contratistaop/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=5858
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=5858 to https://www.primaram.com/xvjuegosmediterraneos/
+11:30:38	Warning: 	Moved Permanently for https://www.primaram.com/?p=7496
+11:30:38	Warning: 	File has moved from https://www.primaram.com/?p=7496 to https://www.primaram.com/productos/filtrado-malla-manual-y-automatico/
+11:30:42	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8039
+11:30:42	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8039 to https://www.primaram.com/pt-pt/proyectos/projeto-de-cultivo-de-ngs-barakat-sharjah-emirados-arabes-unidos/
+11:30:43	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8048
+11:30:43	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8048 to https://www.primaram.com/pt-pt/proyectos/projeto-bagu-parque-solar-para-fornecimento-de-sistema-de-irrigacao-huelva-espanha/
+11:30:43	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8060
+11:30:43	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8060 to https://www.primaram.com/pt-pt/proyectos/campo-de-futebol-11/
+11:30:44	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8058
+11:30:44	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8058 to https://www.primaram.com/pt-pt/proyectos/sistema-de-irrigacao-para-hortalicas-em-fonelas-granada-espanha/
+11:30:44	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8055
+11:30:44	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8055 to https://www.primaram.com/pt-pt/proyectos/sistema-de-irrigacao-para-cultivo-intensivo-de-amendoeira-em-cantillana-badajoz-espanha/
+11:30:45	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8052
+11:30:45	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8052 to https://www.primaram.com/pt-pt/proyectos/desenho-e-execucao-de-um-projeto-integral-de-200-ha-de-limao-e-stevia-em-lambayeque-olmos-peru/
+11:30:45	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8050
+11:30:45	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8050 to https://www.primaram.com/pt-pt/proyectos/projeto-integral-de-sistema-de-irrigacao-para-o-cultivo-de-mirtilo-em-huarmey-peru/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7967
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7967 to https://www.primaram.com/pt-pt/productos/manguera-electrica/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7930
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7930 to https://www.primaram.com/pt-pt/productos/filtragem-de-malha-manual-e-automatica/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7932
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7932 to https://www.primaram.com/pt-pt/productos/variadores-de-frequencia/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7934
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7934 to https://www.primaram.com/pt-pt/productos/bombas-submersiveis/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7935
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7935 to https://www.primaram.com/pt-pt/productos/filtragem-de-areia/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7965
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7965 to https://www.primaram.com/pt-pt/productos/acessorios-de-pe/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7963
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7963 to https://www.primaram.com/pt-pt/productos/monocabo/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7961
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7961 to https://www.primaram.com/pt-pt/productos/acessorios-de-pvc/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7959
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7959 to https://www.primaram.com/pt-pt/productos/pe/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7957
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7957 to https://www.primaram.com/pt-pt/productos/valvulas-motorizadas/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7955
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7955 to https://www.primaram.com/pt-pt/productos/valvulas-manuais/
+11:30:49	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7953
+11:30:49	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7953 to https://www.primaram.com/pt-pt/productos/programador-velum-basic/
+11:30:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/03/SIEMENS_PROVEEDOR.png (from https://www.primaram.com/pt-pt/productos/programador-velum-basic/)
+11:31:02	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7324
+11:31:02	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7324 to https://www.primaram.com/pt-pt/huertomik/
+11:31:02	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7327
+11:31:02	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7327 to https://www.primaram.com/pt-pt/covid-19/
+11:31:02	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7330
+11:31:02	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7330 to https://www.primaram.com/pt-pt/fertiram-sis-uma-ferramenta-para-a-agricultura-inteligente/
+11:31:02	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7952
+11:31:02	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7952 to https://www.primaram.com/pt-pt/productos/programador-velum-plus/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7490
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7490 to https://www.primaram.com/productos/accesorios-pe/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7489
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7489 to https://www.primaram.com/productos/accesorios-pvc/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7488
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7488 to https://www.primaram.com/productos/pe/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7948
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7948 to https://www.primaram.com/productos/projeto-bagu-parque-solar-para-fornecimento-de-sistema-de-irrigacao-huelva-espanha/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7487
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7487 to https://www.primaram.com/productos/valvulas-motorizadas/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7486
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7486 to https://www.primaram.com/productos/valvulas-manuales/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7485
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7485 to https://www.primaram.com/productos/programador-velum-basic/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7484
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7484 to https://www.primaram.com/productos/programador-velum-plus/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7483
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7483 to https://www.primaram.com/productos/programador-velum-standard/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7472
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7472 to https://www.primaram.com/productos/contadores/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7473
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7473 to https://www.primaram.com/productos/valvulas-hidraulicas/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7945
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7945 to https://www.primaram.com/pt-pt/productos/sistema-de-aquecimento/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7944
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7944 to https://www.primaram.com/pt-pt/productos/sistema-de-ventilacao/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7941
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7941 to https://www.primaram.com/pt-pt/productos/bombas-magneticas/
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2019/05/1221-300x142.png (from https://www.primaram.com/productos/bombas-magneticas/)
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7940
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7940 to https://www.primaram.com/pt-pt/productos/bombas-de-injeccao/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7938
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7938 to https://www.primaram.com/pt-pt/productos/equipos-venturi/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7937
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7937 to https://www.primaram.com/pt-pt/productos/garrafas/
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AMIAD-300x180.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-2-300x143.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/ARKAL.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AZUD-300x86.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/FIKTERNOX-300x66.png (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-1-300x71.png (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/VACON-300x81.jpg (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BOHISA-300x68.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DANFOSS-300x123.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/saer1-300x227.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/caprari.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/LOWARA-300x64.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7943
+11:31:12	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7943 to https://www.primaram.com/pt-pt/productos/medidor-de-caudal/
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-1-245x300.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DOROT-300x212.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-1-300x143.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2019/05/SISTEMAS-ELECTRONICOS-PROGRES-300x54.jpg (from https://www.primaram.com/productos/monocable/)
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7474
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7474 to https://www.primaram.com/productos/pvc/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7475
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7475 to https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-245x300.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/GESTIRIEGO-300x214.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/NETAFIM-300x130.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-300x143.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7481
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7481 to https://www.primaram.com/productos/diseno-y-ejecucion-de-embalses-de-riego/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7482
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7482 to https://www.primaram.com/productos/fertiram-sis/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7471
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7471 to https://www.primaram.com/productos/via-radio/
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/INTA-300x212.jpg (from https://www.primaram.com/productos/via-radio/)
+11:31:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-300x71.png (from https://www.primaram.com/productos/via-radio/)
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7470
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7470 to https://www.primaram.com/productos/bombas-centrifugas/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7469
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7469 to https://www.primaram.com/productos/filtrado-anillas-manual-y-automatico/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7468
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7468 to https://www.primaram.com/productos/fotovoltaica/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7467
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7467 to https://www.primaram.com/productos/cubas/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7466
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7466 to https://www.primaram.com/productos/programador-de-clima/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7465
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7465 to https://www.primaram.com/productos/sistema-de-nebulizacion/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7464
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7464 to https://www.primaram.com/productos/aspersores/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7463
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7463 to https://www.primaram.com/productos/goteros-pinchados/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7988
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7988 to https://www.primaram.com/productos/sistema-de-riego-por-goteo-para-hortalizas-en-fonelas-granada-espana/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7986
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7986 to https://www.primaram.com/productos/campo-de-futebol-11/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=7462
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=7462 to https://www.primaram.com/productos/cintas-de-riego/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=5852
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=5852 to https://www.primaram.com/2001fundaciontecnova/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=5846
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=5846 to https://www.primaram.com/iso90009001/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=3471
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=3471 to https://www.primaram.com/covid-19/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=3468
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=3468 to https://www.primaram.com/fertiram/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=4474
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=4474 to https://www.primaram.com/obra-hidraulica/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=4380
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=4380 to https://www.primaram.com/programadores-ph-ce/
+11:31:12	Warning: 	Moved Permanently for https://www.primaram.com/?p=4454
+11:31:12	Warning: 	File has moved from https://www.primaram.com/?p=4454 to https://www.primaram.com/introduccion-de-emisores-de-riego-localizados-patentados-por-prima-ram-goteros-nya/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/?p=262
+11:31:15	Warning: 	File has moved from https://www.primaram.com/?p=262 to https://www.primaram.com/servicios/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7950
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7950 to https://www.primaram.com/pt-pt/productos/programador-velum-standard/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7968
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7968 to https://www.primaram.com/pt-pt/productos/via-radio/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7970
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7970 to https://www.primaram.com/pt-pt/productos/bombas-centrifugas/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8027
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8027 to https://www.primaram.com/pt-pt/productos/fertiram-sis/
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/03/SIEMENS_PROVEEDOR.png (from https://www.primaram.com/pt-pt/productos/programador-velum-basic/)
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=8025
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=8025 to https://www.primaram.com/pt-pt/productos/desenho-e-execucao-de-reservatorios-de-irrigacao/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7990
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7990 to https://www.primaram.com/pt-pt/productos/cintas-de-irrigacao/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7985
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7985 to https://www.primaram.com/pt-pt/productos/gotejadores-perfurados/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7984
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7984 to https://www.primaram.com/pt-pt/productos/aspersores/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7983
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7983 to https://www.primaram.com/pt-pt/productos/ventosas-de-triplo-e-duplo-efeito/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7981
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7981 to https://www.primaram.com/pt-pt/productos/pvc/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7980
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7980 to https://www.primaram.com/pt-pt/productos/sistema-de-nebulizacao/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7979
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7979 to https://www.primaram.com/pt-pt/productos/valvulas-hidraulicas/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7977
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7977 to https://www.primaram.com/pt-pt/productos/medidores/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7976
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7976 to https://www.primaram.com/pt-pt/productos/programador-climatico/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7975
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7975 to https://www.primaram.com/pt-pt/productos/tanques/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7973
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7973 to https://www.primaram.com/pt-pt/productos/fotovoltaico/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=7972
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=7972 to https://www.primaram.com/pt-pt/productos/filtragem-de-neis-manual-e-automatica/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=717
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=717 to https://www.primaram.com/pt-pt/servico/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=709
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=709 to https://www.primaram.com/pt-pt/responsabilidade-social-corporativa/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=705
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=705 to https://www.primaram.com/pt-pt/qualidade/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/pt-pt/?p=691
+11:31:15	Warning: 	File has moved from https://www.primaram.com/pt-pt/?p=691 to https://www.primaram.com/pt-pt/historia/
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2019/05/1221-300x142.png (from https://www.primaram.com/productos/bombas-magneticas/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AMIAD-300x180.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-2-300x143.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/ARKAL.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/AZUD-300x86.jpg (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/FIKTERNOX-300x66.png (from https://www.primaram.com/productos/filtrado-arena/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-1-300x71.png (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/VACON-300x81.jpg (from https://www.primaram.com/productos/variadores-de-frecuencia/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BOHISA-300x68.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DANFOSS-300x123.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/saer1-300x227.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/caprari.jpg (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/LOWARA-300x64.png (from https://www.primaram.com/productos/bombas-sumergibles/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-1-245x300.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/DOROT-300x212.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-1-300x143.jpg (from https://www.primaram.com/productos/caudalimetros/)
+11:31:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2019/05/SISTEMAS-ELECTRONICOS-PROGRES-300x54.jpg (from https://www.primaram.com/productos/monocable/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-245x300.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/GESTIRIEGO-300x214.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/NETAFIM-300x130.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-300x143.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/INTA-300x212.jpg (from https://www.primaram.com/productos/via-radio/)
+11:31:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-300x71.png (from https://www.primaram.com/productos/via-radio/)
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/?p=40
+11:31:15	Warning: 	File has moved from https://www.primaram.com/?p=40 to https://www.primaram.com/rsc/
+11:31:15	Warning: 	Moved Permanently for https://www.primaram.com/?p=36
+11:31:15	Warning: 	File has moved from https://www.primaram.com/?p=36 to https://www.primaram.com/calidad/
+11:31:16	Warning: 	Moved Permanently for https://www.primaram.com/?p=30
+11:31:16	Warning: 	File has moved from https://www.primaram.com/?p=30 to https://www.primaram.com/historia/
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/03/SIEMENS_PROVEEDOR.png (from https://www.primaram.com/pt-pt/productos/programador-velum-basic/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/BERMAD-245x300.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/GESTIRIEGO-300x214.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/NETAFIM-300x130.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/REGABER-300x143.jpg (from https://www.primaram.com/productos/ventosas-de-triple-y-doble-efecto/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/INTA-300x212.jpg (from https://www.primaram.com/productos/via-radio/)
+11:31:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.primaram.com-pro/wp-content/uploads/2018/04/SIEMENS-300x71.png (from https://www.primaram.com/productos/via-radio/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 6 seconds : 1455 links scanned, 1222 files written (193431593 bytes overall) [183032813 bytes received at 108560 bytes/sec], 14375704 bytes transferred using HTTP compression in 375 files, ratio 22%, 11.7 requests per connection
+(26 errors, 362 warnings, 0 messages)
